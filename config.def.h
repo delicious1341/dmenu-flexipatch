@@ -35,7 +35,7 @@ static char *fonts[] =
 static const char *fonts[] =
 #endif // XRESOURCES_PATCH
 {
-	"JetBrainsMono Nerd Font Mono:style=Regular:pixelsize=20"
+	"JetBrains Mono:pixelsize=20"
 };
 #endif // PANGO_PATCH
 #if MANAGED_PATCH
